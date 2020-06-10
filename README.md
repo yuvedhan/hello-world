@@ -1,5 +1,5 @@
 # hello-world
 
 The name is Yuvedhan. 
-Pursuing Masters in Industrail and Syatems Enfineering
-At University at Buffalo
+Pursuing Masters in Industrial and Systems Engineering
+At University at Buffalo.
